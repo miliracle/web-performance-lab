@@ -44,7 +44,7 @@ This project is a Web Performance Experimentation Lab that uses Next.js for the 
 2. Start the Node.js API:
 
     ```bash
-    npm run start --workspace=api
+    npm run dev --workspace=api
     ```
 
 ### Building the Applications
